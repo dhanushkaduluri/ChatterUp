@@ -4,11 +4,11 @@ Developed a realtime chatting application using Socket Programming
 In this project I have worked on Socket Programming to build chatting application that deliveres users responses in realtime.
 
 # Features
-> Typing Status of Users will be displayed
-> Delivers Users Messages in Realtime
-> Messages with Delivered Time
-> Realtime Online Users Display
-> Interactive User Interface
+- Typing Status of Users will be displayed
+- Delivers Users Messages in Realtime
+- Messages with Delivered Time
+- Realtime Online Users Display
+- Interactive User Interface
 
 # Project Results
 
